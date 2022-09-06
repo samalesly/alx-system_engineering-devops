@@ -1,1 +1,1 @@
-cript that lists all the files with a 
+ommand that finds all empty files
