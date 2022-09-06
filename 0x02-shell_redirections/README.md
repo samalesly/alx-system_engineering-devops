@@ -1,1 +1,1 @@
-An acrostic is a poem
+cript that lists all the files with a 
