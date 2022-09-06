@@ -1,1 +1,1 @@
-script that displays all users and their home directories, sorted by users.
+Replace all characters A and c from input to Z and e respectively
