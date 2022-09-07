@@ -1,1 +1,1 @@
-script that parses web servers
+script that displays a confused smiley
