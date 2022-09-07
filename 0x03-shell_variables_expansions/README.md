@@ -1,1 +1,1 @@
-Love is anterior to life, posterior to death
+script that converts a number from base 2 to base 10.
